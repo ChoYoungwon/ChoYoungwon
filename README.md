@@ -3,7 +3,7 @@
 <div align=center>
 Hello, I'm Youngwon Cho
 
-📚 Languages 
+📚 Languages 📚
 
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -11,7 +11,7 @@ Hello, I'm Youngwon Cho
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-🔳 FrameWork, Tool 
+🔳 FrameWork, Tool 🔳
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -21,7 +21,7 @@ Hello, I'm Youngwon Cho
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-📘 Learning
+📘 Learning 📘
 
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 

@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Youngwon's%20GitHub&fontSize=42" />
-
 <div align=center>
-Hello, I'm Youngwon Cho
+<h4>Hello, I'm Youngwon Cho</h4>
 
 📚 Languages 📚
 

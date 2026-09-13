@@ -2,11 +2,11 @@
 
 ### 📂 Projects
 
-##### [1. PVD Sputter 공정 제어 SW 개발](https://github.com/ChoYoungwon/pvd-sputter-control-project) 
+![1. PVD Sputter 공정 제어 SW 개발](https://github.com/ChoYoungwon/pvd-sputter-control-project) 
 EasyCluster Framework를 활용해 PVD Sputter 공정의 필요한 IO를 정의하고, 개별 Manual 동작을 구현한 후 궁극적으로 레시피를 적용할 수 있는 Auto Run을 구현하였습니다.  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-##### [2. FreeRTOS 기반 실시간 설비 안전 관리 시스템](https://github.com/ChoYoungwon/freertos-factory-safety-system) 
+[2. FreeRTOS 기반 실시간 설비 안전 관리 시스템](https://github.com/ChoYoungwon/freertos-factory-safety-system) 
 아두이노의 1개의 실행 흐름과 스택 메모리로 인한 신호 블로킹 및 지연 문제를 FreeRTOS의 멀티태스킹 방식으로 해결합니다.  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?logo=dotnet&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4C555A?logo=freertos&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
 

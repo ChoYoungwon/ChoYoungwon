@@ -7,16 +7,16 @@ EasyCluster Framework를 활용해 PVD Sputter 공정의 필요한 IO를 정의�
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 [2. FreeRTOS 기반 실시간 설비 안전 관리 시스템](https://github.com/ChoYoungwon/freertos-factory-safety-system)  
-아두이노의 1개의 실행 흐름과 스택 메모리로 인한 신호 블로킹 및 지연 문제를 FreeRTOS의 멀티태스킹 방식으로 해결합니다.  
+아두이노의 1개의 실행 흐름과 스택 메모리로 인한 신호 블로킹 및 지연 문제를 FreeRTOS의 멀티태스킹 방식으로 해결하였습니다.
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?logo=dotnet&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4C555A?logo=freertos&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
 
 [3. openMP와 CUDA를 이용한 컨텐츠기반 분산 백업 시스템](https://github.com/ChoYoungwon/distributed_backup)  
 Rabin Fingerprint 기반의 CDC 분산 백업 시스템을 GPU의 멀티코어 기반의 방식으로 병렬 처리해 청크 및 백업 저장 속도를 높였습니다.  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 
-[4. POSIX System Call과 System V IPC(Message Queue) 기반의 비동기 GUI 파일 관리자](https://github.com/ChoYoungwon/system-sw-gui-project)  
-Ubuntu GUI 기반 파일 탐색기를 기능별 두 개의 프로세스와 통신 방식을 이용해 화면 멈춤을 최소화하였습니다.  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![GTK4](https://img.shields.io/badge/GTK4-E01B24?logo=gtk&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+[4. GTK4 GUI 파일 관리자 & 샌드박스 셸 (C, GTK4, POSIX, System V IPC)](https://github.com/ChoYoungwon/system-sw-gui-project)  
+화면(UI)과 파일 작업을 두 개의 프로세스로 분리하고, 메시지 큐로 통신하도록 설계해  
+대용량 파일 복사·삭제 중에도 화면이 멈추지 않는 리눅스 파일 탐색기를 구현했습니다.![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![GTK4](https://img.shields.io/badge/GTK4-E01B24?logo=gtk&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 [5. 생체 피드백을 위한 회원정보 및 학습 세션 데이터 관리용 RESTful API 서버 구축](https://github.com/ChoYoungwon/backend-by-fastapi)  
 생체 피드백과 회원 데이터를 빠르고 안정적으로 제공하기 위해 FastAPI와 비동기 방식을 활용해 RESTful 규칙을 준수한 API서버를 구현하였습니다.  

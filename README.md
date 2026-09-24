@@ -23,10 +23,14 @@ Rabin Fingerprint 기반의 CDC 분산 백업 시스템을 GPU의 멀티코어 �
 생체 피드백과 회원 데이터를 빠르고 안정적으로 제공하기 위해 FastAPI와 비동기 방식을 활용해 RESTful 규칙을 준수한 API서버를 구현하였습니다.  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-[6. AI 기반 도로 정비 분석 시스템을 위한 WAS 서버 구축](https://github.com/ChoYoungwon/dsc-project)  
+[6. 스마트워치 기반 실시간 집중도 측정 WebSocket 서버 (Python, FastAPI, asyncio, Docker)](https://github.com/HolicLab/websocket_fastapi)  
+스마트워치 PPG 데이터를 WebSocket으로 받아 AI 모델로 집중도를 추론하고, 비동기 큐 파이프라인으로 워치·백엔드에 실시간 전달하는 서버를 구현했습니다.  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+[7. AI 기반 도로 정비 분석 시스템을 위한 WAS 서버 구축](https://github.com/ChoYoungwon/dsc-project)  
 도로 정비 분석 효율화를 위한 제보 페이지 및 정비 필요 우선순위 site 대시보드 제공을 위한 웹사이트를 구현하였습니다.  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-[7. 멀티스레드 생산자 소비자 패턴 동기화 메커니즘 MFC GUI를 통한 구현](https://github.com/ChoYoungwon/mfc-producer-consumer-patterns)  
+[8. 멀티스레드 생산자 소비자 패턴 동기화 메커니즘 MFC GUI를 통한 구현](https://github.com/ChoYoungwon/mfc-producer-consumer-patterns)  
 생산자 소비자 패턴 동기화 매커니즘을 시각화하였습니다.  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![MFC](https://img.shields.io/badge/MFC-00599C?logo=cplusplus&logoColor=white)

@@ -16,7 +16,8 @@ Rabin Fingerprint 기반의 CDC 분산 백업 시스템을 GPU의 멀티코어 �
 
 [4. GTK4 GUI 파일 관리자 & 샌드박스 셸 (C, GTK4, POSIX, System V IPC)](https://github.com/ChoYoungwon/system-sw-gui-project)  
 화면(UI)과 파일 작업을 두 개의 프로세스로 분리하고, 메시지 큐로 통신하도록 설계해  
-대용량 파일 복사·삭제 중에도 화면이 멈추지 않는 리눅스 파일 탐색기를 구현했습니다.![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![GTK4](https://img.shields.io/badge/GTK4-E01B24?logo=gtk&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+대용량 파일 복사·삭제 중에도 화면이 멈추지 않는 리눅스 파일 탐색기를 구현했습니다.  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![GTK4](https://img.shields.io/badge/GTK4-E01B24?logo=gtk&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 [5. 생체 피드백을 위한 회원정보 및 학습 세션 데이터 관리용 RESTful API 서버 구축](https://github.com/ChoYoungwon/backend-by-fastapi)  
 생체 피드백과 회원 데이터를 빠르고 안정적으로 제공하기 위해 FastAPI와 비동기 방식을 활용해 RESTful 규칙을 준수한 API서버를 구현하였습니다.  

@@ -2,7 +2,7 @@
 
 ### 📂 Projects
 
-[1. PVD Sputter 공정 제어 SW 개발](https://github.com/ChoYoungwon/pvd-sputter-control-project)  
+1. PVD Sputter 공정 제어 SW 개발  
 EasyCluster Framework를 활용해 PVD Sputter 공정의 필요한 IO를 정의하고, 개별 Manual 동작을 구현한 후 궁극적으로 레시피를 적용할 수 있는 Auto Run을 구현하였습니다.  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
